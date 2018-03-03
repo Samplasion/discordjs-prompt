@@ -1,0 +1,15 @@
+{
+  "name": "discordjs-prompt",
+  "version": "0.0.1",
+  "description": "A message prompter for discord.js version 12.0.0-dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "prompt"
+  ],
+  "author": "Samplasion <samplasion@gmail.com> (samplasion.github.io)",
+  "license": "ISC"
+}
